@@ -18,6 +18,6 @@ Hi! My name is Taher Alfayad. I am a Computer Science student at the University 
 
 I have a portfolio website where I go into detail about myself, my career, and most of the projects that I've worked on in my life, hosted [here](https://taheralfayad.github.io/portfolio) on Github pages!
 
-A fun fact about me is that I am very passionate about educational technology, accessibility, and AI/ML, and would love to one day create an open-source project that the community finds useful.
+A few fun facts about me are that I am very passionate about educational technology, web accessibility, and AI/ML, and would love to one day create an open-source project that the community finds useful.
 
 That's all about me for now, hope you enjoy going through my projects!
