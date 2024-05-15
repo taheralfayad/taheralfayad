@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! My name is Taher Alfayad. I am a Computer Science student at the University of Central Florida, where I am also employed as a Software Developer. 
+My name is Taher Alfayad. I am a Computer Science student at the University of Central Florida, where I am also employed as a Software Developer. 
 
 I have a portfolio website where I go into detail about myself, my career, and most of the projects that I've worked on in my life, hosted [here](https://taheralfayad.github.io/portfolio) on Github pages!
 
