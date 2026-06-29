@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Taher Alfayad. I am a Computer Science Graduate from the University of Central Florida, where I am also employed as an Applications Programmer II. 
+My name is Taher Alfayad. I am a Computer Science Graduate from the University of Central Florida, where I am also employed as a Data Engineer. 
 
 I have a portfolio website where I go into detail about myself, my career, and most of the projects that I've worked on in my life, hosted [here](https://taheralfayad.com)!
 
